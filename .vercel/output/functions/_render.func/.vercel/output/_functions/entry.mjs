@@ -1,5 +1,5 @@
 import { renderers } from './renderers.mjs';
-import { l as levels, g as getEventPrefix, L as Logger, A as AstroIntegrationLogger, manifest } from './manifest_2X25qrgI.mjs';
+import { l as levels, g as getEventPrefix, L as Logger, A as AstroIntegrationLogger, manifest } from './manifest_VHuMkmPc.mjs';
 import 'node:fs';
 import { e as appendForwardSlash, j as joinPaths, t as trimSlashes, s as slash, p as prependForwardSlash, r as removeTrailingForwardSlash, f as collapseDuplicateSlashes } from './chunks/astro/assets-service_HYbd8OvP.mjs';
 import { R as ROUTE_DATA_SYMBOL, A as AstroError, l as ResponseSentError, n as MiddlewareNoDataOrNextCalled, o as MiddlewareNotAResponse, G as GetStaticPathsRequired, p as InvalidGetStaticPathsReturn, q as InvalidGetStaticPathsEntry, t as GetStaticPathsExpectedParams, v as GetStaticPathsInvalidRouteParam, P as PageNumberParamNotFound, N as NoMatchingStaticPathFound, w as PrerenderDynamicEndpointPathCollide, x as LocalsNotAnObject, y as ASTRO_VERSION, C as ClientAddressNotAvailable, S as StaticClientAddressNotAvailable, z as renderEndpoint, B as ReservedSlotName, D as renderSlotToString, F as renderJSX, H as chunkToString, J as CantRenderPage, K as renderPage$1, O as REROUTE_DIRECTIVE_HEADER } from './chunks/astro_WtunJ4P3.mjs';
@@ -2192,9 +2192,9 @@ const _page4 = () => import('./chunks/inteligencia-artificial-en-medicina_PX5GzC
 const _page5 = () => import('./chunks/inteligencia-artificial-y-ética_2rKski2A.mjs');
 const _page6 = () => import('./chunks/iron-man-el-mejor-vengador_Jk07PvEg.mjs');
 const _page7 = () => import('./chunks/telemedicina-y-atención-remota_A6Xo_wy0.mjs');
-const _page8 = () => import('./chunks/index_bawSOPWp.mjs');
+const _page8 = () => import('./chunks/index_CNu-oh3V.mjs');
 const _page9 = () => import('./chunks/_.._0riLnB1w.mjs');
-const _page10 = () => import('./chunks/index_g5JJEg2o.mjs');
+const _page10 = () => import('./chunks/index_ioc__gzi.mjs');
 const pageMap = new Map([
     ["node_modules/astro/dist/assets/endpoint/generic.js", _page0],
     ["src/pages/posts/crítica-al-sabor-de-los-completos-mojados-de-talca-una-experiencia-gustativa-desfavorable.md", _page1],
