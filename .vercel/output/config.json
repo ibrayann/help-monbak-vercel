@@ -1,0 +1,59 @@
+{
+	"version": 3,
+	"routes": [
+		{
+			"src": "^/_astro/(.*)$",
+			"headers": {
+				"cache-control": "public, max-age=31536000, immutable"
+			},
+			"continue": true
+		},
+		{
+			"handle": "filesystem"
+		},
+		{
+			"src": "^\\/_image$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/posts\\/crítica-al-sabor-de-los-completos-mojados-de-talca-una-experiencia-gustativa-desfavorable\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/posts\\/el-café-combustible-esencial-para-la-vida-cotidiana\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/posts\\/explorando-los-potenciales-terapéuticos-el-uso-medicinal-del-cannabis-sativa\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/posts\\/inteligencia-artificial-en-medicina\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/posts\\/inteligencia-artificial-y-ética\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/posts\\/iron-man-el-mejor-vengador\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/posts\\/telemedicina-y-atención-remota\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/search\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/search(?:\\/(.*?))?\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/$",
+			"dest": "_render"
+		}
+	]
+}
