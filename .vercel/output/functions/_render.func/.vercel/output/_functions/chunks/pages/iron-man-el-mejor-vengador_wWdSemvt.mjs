@@ -1,5 +1,5 @@
 /* empty css                          */
-import { d as createComponent, r as renderTemplate, m as maybeRenderHead, u as unescapeHTML } from '../astro_WtunJ4P3.mjs';
+import { d as createComponent, r as renderTemplate, m as maybeRenderHead, u as unescapeHTML } from '../astro_YTknkDH1.mjs';
 import 'kleur/colors';
 import 'clsx';
 import 'cssesc';

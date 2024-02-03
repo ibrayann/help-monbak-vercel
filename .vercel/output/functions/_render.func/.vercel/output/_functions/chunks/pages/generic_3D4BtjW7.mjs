@@ -1,13 +1,13 @@
-import { i as isESMImportedImage, a as isLocalService, b as isRemoteImage, D as DEFAULT_HASH_PROPS, c as isRemotePath, d as isRemoteAllowed } from '../astro/assets-service_HYbd8OvP.mjs';
+import { i as isESMImportedImage, a as isLocalService, b as isRemoteImage, D as DEFAULT_HASH_PROPS, c as isRemotePath, d as isRemoteAllowed } from '../astro/assets-service_wA0cDKtx.mjs';
 import mime from 'mime/lite.js';
-import { A as AstroError, i as InvalidImageService, j as ExpectedImageOptions, E as ExpectedImage, c as createAstro, d as createComponent, k as ImageMissingAlt, r as renderTemplate, m as maybeRenderHead, e as addAttribute, s as spreadAttributes } from '../astro_WtunJ4P3.mjs';
+import { A as AstroError, g as InvalidImageService, h as ExpectedImageOptions, E as ExpectedImage, c as createAstro, d as createComponent, i as ImageMissingAlt, r as renderTemplate, m as maybeRenderHead, e as addAttribute, s as spreadAttributes } from '../astro_YTknkDH1.mjs';
 import 'clsx';
 
 async function getConfiguredImageService() {
   if (!globalThis?.astroAsset?.imageService) {
     const { default: service } = await import(
       // @ts-expect-error
-      '../astro/assets-service_HYbd8OvP.mjs'
+      '../astro/assets-service_wA0cDKtx.mjs'
     ).then(n => n.g).catch((e) => {
       const error = new AstroError(InvalidImageService);
       error.cause = e;

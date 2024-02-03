@@ -1,8 +1,8 @@
 import { renderers } from './renderers.mjs';
-import { l as levels, g as getEventPrefix, L as Logger, A as AstroIntegrationLogger, manifest } from './manifest_VHuMkmPc.mjs';
+import { l as levels, g as getEventPrefix, L as Logger, A as AstroIntegrationLogger, manifest } from './manifest_frghSGAU.mjs';
 import 'node:fs';
-import { e as appendForwardSlash, j as joinPaths, t as trimSlashes, s as slash, p as prependForwardSlash, r as removeTrailingForwardSlash, f as collapseDuplicateSlashes } from './chunks/astro/assets-service_HYbd8OvP.mjs';
-import { R as ROUTE_DATA_SYMBOL, A as AstroError, l as ResponseSentError, n as MiddlewareNoDataOrNextCalled, o as MiddlewareNotAResponse, G as GetStaticPathsRequired, p as InvalidGetStaticPathsReturn, q as InvalidGetStaticPathsEntry, t as GetStaticPathsExpectedParams, v as GetStaticPathsInvalidRouteParam, P as PageNumberParamNotFound, N as NoMatchingStaticPathFound, w as PrerenderDynamicEndpointPathCollide, x as LocalsNotAnObject, y as ASTRO_VERSION, C as ClientAddressNotAvailable, S as StaticClientAddressNotAvailable, z as renderEndpoint, B as ReservedSlotName, D as renderSlotToString, F as renderJSX, H as chunkToString, J as CantRenderPage, K as renderPage$1, O as REROUTE_DIRECTIVE_HEADER } from './chunks/astro_WtunJ4P3.mjs';
+import { e as appendForwardSlash, j as joinPaths, t as trimSlashes, s as slash, p as prependForwardSlash, r as removeTrailingForwardSlash, f as collapseDuplicateSlashes } from './chunks/astro/assets-service_wA0cDKtx.mjs';
+import { R as ROUTE_DATA_SYMBOL, A as AstroError, l as ResponseSentError, n as MiddlewareNoDataOrNextCalled, o as MiddlewareNotAResponse, G as GetStaticPathsRequired, p as InvalidGetStaticPathsReturn, q as InvalidGetStaticPathsEntry, t as GetStaticPathsExpectedParams, v as GetStaticPathsInvalidRouteParam, P as PageNumberParamNotFound, N as NoMatchingStaticPathFound, w as PrerenderDynamicEndpointPathCollide, x as LocalsNotAnObject, y as ASTRO_VERSION, C as ClientAddressNotAvailable, S as StaticClientAddressNotAvailable, z as renderEndpoint, B as ReservedSlotName, D as renderSlotToString, F as renderJSX, H as chunkToString, J as CantRenderPage, K as renderPage$1, O as REROUTE_DIRECTIVE_HEADER } from './chunks/astro_YTknkDH1.mjs';
 import { serialize, parse } from 'cookie';
 import 'kleur/colors';
 import 'clsx';
@@ -2184,17 +2184,17 @@ const serverEntrypointModule = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.de
   createExports
 }, Symbol.toStringTag, { value: 'Module' }));
 
-const _page0 = () => import('./chunks/generic_XsumRUTy.mjs');
-const _page1 = () => import('./chunks/crítica-al-sabor-de-los-completos-mojados-de-talca-una-experiencia-gustativa-desfavorable_PCfCTj_7.mjs');
-const _page2 = () => import('./chunks/el-café-combustible-esencial-para-la-vida-cotidiana_CjFL8bkH.mjs');
-const _page3 = () => import('./chunks/explorando-los-potenciales-terapéuticos-el-uso-medicinal-del-cannabis-sativa_BRkO_Pjp.mjs');
-const _page4 = () => import('./chunks/inteligencia-artificial-en-medicina_PX5GzCUG.mjs');
-const _page5 = () => import('./chunks/inteligencia-artificial-y-ética_2rKski2A.mjs');
-const _page6 = () => import('./chunks/iron-man-el-mejor-vengador_Jk07PvEg.mjs');
-const _page7 = () => import('./chunks/telemedicina-y-atención-remota_A6Xo_wy0.mjs');
-const _page8 = () => import('./chunks/index_CNu-oh3V.mjs');
-const _page9 = () => import('./chunks/_.._0riLnB1w.mjs');
-const _page10 = () => import('./chunks/index_ioc__gzi.mjs');
+const _page0 = () => import('./chunks/generic_Z0WHuh6z.mjs');
+const _page1 = () => import('./chunks/crítica-al-sabor-de-los-completos-mojados-de-talca-una-experiencia-gustativa-desfavorable_eRh-9EbO.mjs');
+const _page2 = () => import('./chunks/el-café-combustible-esencial-para-la-vida-cotidiana_HOqIjqLF.mjs');
+const _page3 = () => import('./chunks/explorando-los-potenciales-terapéuticos-el-uso-medicinal-del-cannabis-sativa_oMu1Nc6l.mjs');
+const _page4 = () => import('./chunks/inteligencia-artificial-en-medicina_3ZJN7V0O.mjs');
+const _page5 = () => import('./chunks/inteligencia-artificial-y-ética_yCdC1b8K.mjs');
+const _page6 = () => import('./chunks/iron-man-el-mejor-vengador_zueYjMdr.mjs');
+const _page7 = () => import('./chunks/telemedicina-y-atención-remota_VPWgybSU.mjs');
+const _page8 = () => import('./chunks/index_1fNlm2X1.mjs');
+const _page9 = () => import('./chunks/_.._pSTqT6-B.mjs');
+const _page10 = () => import('./chunks/index_yWpTx0az.mjs');
 const pageMap = new Map([
     ["node_modules/astro/dist/assets/endpoint/generic.js", _page0],
     ["src/pages/posts/crítica-al-sabor-de-los-completos-mojados-de-talca-una-experiencia-gustativa-desfavorable.md", _page1],
